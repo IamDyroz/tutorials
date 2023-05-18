@@ -1,3 +1,3 @@
 # Tutorials
 
--[x] PostgrSQL 
+-[x] [PostgrSQL](/PostgreSQL/README.md)
