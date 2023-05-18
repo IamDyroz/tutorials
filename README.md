@@ -1,2 +1,3 @@
 # Tutorials
-[ ] PostgrSQL 
+
+-[x] PostgrSQL 
