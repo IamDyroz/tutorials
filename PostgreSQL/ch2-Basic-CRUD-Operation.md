@@ -98,3 +98,9 @@ DELETE FROM table_name;
 ```
 DELETE FROM table_name WHERE condition;
 ```
+
+------
+
+[Previous](/PostgreSQL/ch1-PostgreSQL-Installation-Ubuntu.md)       [PostgreSQL](/PostgreSQL/README.md)          [Next](/PostgreSQL/ch3-creating-table.md)
+
+------

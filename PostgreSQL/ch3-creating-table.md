@@ -58,3 +58,9 @@ We also can do some basic calculation while retrieving data
 ```
 SELECT city, (temp_hi + temp_lo)/2 AS temp_avg, date FROM weather;
 ```
+
+------
+
+[Previous](/PostgreSQL/ch2-Basic-CRUD-Operation.md)     [PostgreSQL](/PostgreSQL/README.md)            [Next](/PostgreSQL/ch3-creating-table.md)
+
+------
