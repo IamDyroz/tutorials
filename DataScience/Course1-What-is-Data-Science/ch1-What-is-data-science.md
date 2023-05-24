@@ -12,4 +12,33 @@ Examines data to gain insights into what happened/happenning by data visualizati
 
 **2. Diagnostic Analysis**
 
-Deep/detailed data examination to understand why something happened.
+Deep/detailed data examination to understand why something happened by using data mining, discovery and correlations.
+
+**3. Predictive Analysis**
+
+Uses historical data to make accurate forecasts about data patterns that may occur in the future, using machine learning, forecasting, pattern matching and predictive modeling.
+
+**4. Prescriptive Analysis**
+
+Predict the future outcomes and prescibe an optimum response to that outcome, using AI/Machine Learning to recommend the best course of action.
+
+# What are the data science techniques?
+
+**1. Classification**
+
+Sorting of data into specific groups or categories.
+
+**2. Regression**
+
+Finding a relationship between two seemingly unrelated data points.
+
+**3. Clustering**
+
+Method of grouping closely related data together to look for patterns and anomolies.
+
+
+----
+
+[Previous](/DataScience/Course1-What-is-Data-Science/)
+
+----
