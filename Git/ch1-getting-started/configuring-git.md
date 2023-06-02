@@ -15,9 +15,16 @@ Before we start using Git, we need to specify some configurations, such as:
 #
 
 ```
-$ git config --global user.name "Dhiraj Bhattarai"
+git config --global user.name "Dhiraj Bhattarai"
+```
+**Note:** *the double quote `" "` is used to include the space in between the name.*
 
-$ git config --global user.email b4dhiraj@gmail.com
+```
+git config --global user.email b4dhiraj@gmail.com
 ```
 
-*Note:* In first command, the double quote `" "` is used to include the space in between the name.
+---
+
+[Getting Started](/Git/ch1-getting-started/README.md)
+
+---
