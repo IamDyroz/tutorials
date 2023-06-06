@@ -107,3 +107,9 @@ In case you want to recover the files of previous commit
 ```
 git restore --source=HEAD~1 <file_name>
 ```
+
+----
+
+[Creating Snapshots](/Git/ch2-creating-snapshots/README.md)
+
+----

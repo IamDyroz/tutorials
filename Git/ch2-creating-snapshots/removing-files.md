@@ -14,3 +14,8 @@ OR, we can achieve same result using a single Git command instead using Unix com
 git rm <file_name_1>
 ```
 
+----
+
+[Creating Snapshots](/Git/ch2-creating-snapshots/README.md)
+
+----

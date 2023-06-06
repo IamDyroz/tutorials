@@ -22,3 +22,9 @@ git rm --cached <file> -r
 ```
 git ls-files
 ```
+
+----
+
+[Creating Snapshots](/Git/ch2-creating-snapshots/README.md)
+
+----

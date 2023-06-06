@@ -15,3 +15,9 @@ OR, using single Git command
 ```
 git mv <old_file.txt> <new_file.txt>
 ```
+
+----
+
+[Creating Snapshots](/Git/ch2-creating-snapshots/README.md)
+
+----

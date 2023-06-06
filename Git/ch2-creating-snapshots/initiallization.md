@@ -28,7 +28,7 @@ git add .
 
 All of the above are valide git command and perform similar task, first one add single given file, second command add multiple given file, third command add all the files having `.txt` extension and last one add all the files of current directory.
 
-# Commiting the Snapshots of Staging Area
+# Committing the Snapshots of Staging Area
 
 In order to save the changes to git repository, we have to commit the snapshots of staging area.
 
@@ -61,3 +61,8 @@ git commit -am "Fixed the bug"
 
 **Note:** `-a` flag stands for all
 
+----
+
+[Creating Snapshots](/Git/ch2-creating-snapshots/README.md)
+
+----
