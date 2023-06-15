@@ -1,4 +1,4 @@
-# Git Tutorials
+# Browsing History
 
 [Viewing the History](/Git/ch3-browsing-history/1-viewing-the-history.md#viewing-the-history)
 

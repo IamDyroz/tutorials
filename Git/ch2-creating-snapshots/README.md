@@ -1,4 +1,4 @@
-# Git Tutorials
+# Creating Snapshots
 
 [Initiallizing Git Repository](/Git/ch2-creating-snapshots/initiallization.md#initiallizing-a-git-repository)
 
